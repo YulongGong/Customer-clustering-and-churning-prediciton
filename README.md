@@ -1,0 +1,2 @@
+# Customer-clustering-and-churning-prediciton
+Through this project, we hope to help the business manager understand their customer stratifications and update their product features. Furthermore, we want to use the information we have to identify the characteristics of attrited customers so that the company may come up with marketing strategies to maintain those customers who may end the business relationship with them.
